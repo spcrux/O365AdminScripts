@@ -1,10 +1,7 @@
 # O365 Admin Scripts
 PowerShell scripts for Office 365 administration.
-This is a collection of scripts we share as part of Office 365 Security Optimization Assessment, a Microsoft Premier Support engagement.
-
-Check the documentation for more information about each script.
-
 These scripts are provided for reference and example purposes only. Please ensure that you thoroughly review each script before executing it within your environment.
+Check the documentation for more information about each script.
 
 # Disclaimer
 

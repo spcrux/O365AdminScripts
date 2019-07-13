@@ -1,6 +1,6 @@
 #Scripts
 
-These scripts are provided for reference and example purposes only. Please ensure that you thoroughly review each script before executing it within your environment.
+These scripts are provided for reference and example purposes only. Please ensure that you thoroughly review and test each script before executing it within your environment.
 
 Check the documentation for more information about each script.
 
